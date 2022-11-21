@@ -33,7 +33,7 @@ createCard(
     "segunda",
     createGame("england", "6 x 2", "iran") +
       createGame("senegal", "0 x 2", "netherlands") +
-      createGame("united states", "16:00", "wales") 
+      createGame("united states", "1 x 1", "wales") 
   ) +
 
   createCard(
