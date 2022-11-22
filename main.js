@@ -42,7 +42,7 @@ createCard(
     createGame("argentina", "1 x 2", "saudi arabia") +
       createGame("denmark", "0 x 0", "tunisia") +
       createGame("mexico", "0 x 0", "poland") +
-      createGame("france", "16:00", "australia")
+      createGame("france", "4 x 1", "australia")
   ) +
 
   createCard(
