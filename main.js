@@ -49,7 +49,7 @@ createCard(
     "23/11",
     "quarta",
     createGame("morocco", "0 x 0", "croatia") +
-      createGame("germany", "10:00", "japan") +
+      createGame("germany", "1 x 2", "japan") +
       createGame("spain", "13:00", "costa rica") +
       createGame("belgium", "16:00", "canada")
   ) +
