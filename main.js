@@ -59,8 +59,8 @@ createCard(
     "quinta",
     createGame("switzerland", "1 x 0", "cameroon") +
       createGame("uruguay", "0 x 0", "south korea") +
-      createGame("portugal", "13:00", "ghana") +
-      createGame("brazil", "16:00", "serbia")
+      createGame("portugal", "3 x 2", "ghana") +
+      createGame("brazil", "2 x 0", "serbia")
   ) +
 
   createCard(
@@ -131,6 +131,6 @@ createCard(
     "sexta",
     createGame("south korea", "12:00", "portugal") +
       createGame("ghana", "12:00", "uruguay") +
-      createGame("serbia", "16:00", "switzerland") +
+      createGame("serbia", "j16:00", "switzerland") +
       createGame("brazil", "16:00", "cameroon")
   )
