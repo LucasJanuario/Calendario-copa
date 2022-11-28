@@ -68,26 +68,26 @@ createCard(
     "sexta",
     createGame("wales", "0 x 2", "iran") +
       createGame("qatar", "1 x 3", "senegal") +
-      createGame("netherlands", "13:00", "ecuador") +
-      createGame("england", "16:00", "united states")
+      createGame("netherlands", "1 x 1", "ecuador") +
+      createGame("england", "0 x 0", "united states")
   ) +
 
   createCard(
     "26/11",
     "sabado",
-    createGame("tunisia", "07:00", "australia") +
-      createGame("poland", "10:00", "saudi arabia") +
-      createGame("france", "13:00", "denmark") +
-      createGame("argentina", "16:00", "mexico")
+    createGame("tunisia", "0 x 1", "australia") +
+      createGame("poland", "2 x 0", "saudi arabia") +
+      createGame("france", "2 x 1", "denmark") +
+      createGame("argentina", "2 x 0", "mexico")
   ) +
 
   createCard(
     "27/11",
     "domingo",
-    createGame("japan", "07:00", "costa rica") +
-      createGame("belgium", "10:00", "morocco") +
-      createGame("croatia", "13:00", "canada") +
-      createGame("spain", "16:00", "germany")
+    createGame("japan", "0 x 1", "costa rica") +
+      createGame("belgium", "0 x 2", "morocco") +
+      createGame("croatia", "4 x 1", "canada") +
+      createGame("spain", "1 x 1", "germany")
   ) +
 
   createCard(
