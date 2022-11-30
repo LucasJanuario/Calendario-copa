@@ -102,10 +102,10 @@ createCard(
   createCard(
     "29/11",
     "terça",
-    createGame("ecuador", "12:00", "senegal") +
-      createGame("netherlands", "12:00", "qatar") +
-      createGame("iran", "16:00", "united states") +
-      createGame("wales", "16:00", "england")
+    createGame("ecuador", "1 x 2", "senegal") +
+      createGame("netherlands", "2 x 0", "qatar") +
+      createGame("iran", "0 x 1", "united states") +
+      createGame("wales", "0 x 3", "england")
   ) +
 
   createCard(
