@@ -26,7 +26,7 @@ document.querySelector("#cards").innerHTML =
 createCard(
   "13/12",
   "Semifinal",
-  createGame("argentina", "16:00", "croatia"))+
+  createGame("argentina", "3 x 0", "croatia"))+
 
   createCard(
     "14/12",
@@ -35,7 +35,7 @@ createCard(
   ) +
 
   createCard(
-    "18/12",
+    "17/12",
     "Terceiro lugar",
     createGame("croatia", "12:00", "morocco")
   )+
